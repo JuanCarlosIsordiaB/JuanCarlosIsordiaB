@@ -1,16 +1,19 @@
-### Hi there 👋
+Hi there! 👋 I'm Juan Carlos Isordia Betancourt
+I'm a 20-year-old Computer Science student at City University of Seattle and pursuing a degree in Intelligent Systems Engineering at Universidad Autonoma de San Luis Potosi, Mexico. I'm passionate about Web Development and currently working as a Fullstack Web Developer.
 
-<!--
-**JuanCarlosIsordiaB/JuanCarlosIsordiaB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Technologies & Tools
+Frontend: Next.js, React, JavaScript, Tailwind, Bootstrap
+Backend: Node.js, Express
+Databases: MongoDB, Firebase
+Languages: JavaScript, C
+🌱 Currently Learning
+I'm always eager to learn and currently exploring new technologies and frameworks to enhance my skills.
 
-Here are some ideas to get you started:
+📚 Education
+City University of Seattle: BSc in Computer Science
+Universidad Autonoma de San Luis Potosi: Intelligent Systems Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with Me
+LinkedIn: [Juan Carlos Isordia Betancourt](https://www.linkedin.com/in/juan-carlos-isordia-betancourt-ab6aba271/)
+Website/Portfolio: https://personal-portfolio-two-azure-74.vercel.app/
+Feel free to explore my repositories and don't hesitate to reach out for collaboration or just to say hi! 🌟
