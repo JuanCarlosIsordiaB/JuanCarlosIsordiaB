@@ -3,9 +3,9 @@ I'm a 20-year-old Computer Science student at City University of Seattle and pur
 
 🚀 Technologies & Tools
 Frontend: Next.js, React, JavaScript, Tailwind, Bootstrap
-Backend: Node.js, Express
+Backend: Node.js, Express, Nest.js
 Databases: MongoDB, Firebase
-Languages: JavaScript, C
+Languages: TypeScript, JavaScript, C
 🌱 Currently Learning
 I'm always eager to learn and currently exploring new technologies and frameworks to enhance my skills.
 
