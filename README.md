@@ -15,5 +15,5 @@ Universidad Autonoma de San Luis Potosi: Intelligent Systems Engineering
 
 📫 Connect with Me
 LinkedIn: [Juan Carlos Isordia Betancourt](https://www.linkedin.com/in/juan-carlos-isordia-betancourt-ab6aba271/)
-Website/Portfolio: https://personal-portfolio-two-azure-74.vercel.app/
+Website/Portfolio:https://juancarlosisordia-portfolio.vercel.app/
 Feel free to explore my repositories and don't hesitate to reach out for collaboration or just to say hi! 🌟
