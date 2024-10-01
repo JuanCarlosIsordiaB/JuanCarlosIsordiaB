@@ -1,5 +1,5 @@
 Hi there! 👋 I'm Juan Carlos Isordia Betancourt
-I'm a 20-year-old Computer Science student at City University of Seattle and pursuing a degree in Intelligent Systems Engineering at Universidad Autonoma de San Luis Potosi, Mexico. I'm passionate about Web Development and currently working as a Fullstack Web Developer.
+I'm a 21-year-old Computer Science student at City University of Seattle and pursuing a degree in Intelligent Systems Engineering at Universidad Autonoma de San Luis Potosi, Mexico. I'm passionate about Web Development and currently working as a Fullstack Web Developer.
 
 🚀 Technologies & Tools
 Frontend: Next.js, React, JavaScript, Tailwind, Bootstrap
